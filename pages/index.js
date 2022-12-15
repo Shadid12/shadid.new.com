@@ -16,12 +16,12 @@ export default function Home() {
           alt="Shadid Haque" width={100} height={100} style={{borderRadius: '50%'}}
         />
         <h1 className={styles.title}>
-          Hi, I'm <span className={styles.name}>
+          Hi, I&apos;m <span className={styles.name}>
             <a href="https://www.linkedin.com/in/shadid-haque/" target="_blank">Shadid</a>
           </span>
         </h1>
         <p className={styles.description}>
-          I'm a Programmer, a Solopreneur, travel enthusiast. Building a one person business.
+          I&apos;m a Programmer, a Solopreneur, travel enthusiast. Building a one person business.
         </p>
       </div>
 
