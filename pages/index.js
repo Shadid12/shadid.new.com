@@ -17,7 +17,7 @@ export default function Home() {
         />
         <h1 className={styles.title}>
           Hi, I&apos;m <span className={styles.name}>
-            <a href="https://www.linkedin.com/in/shadid-haque/" target="_blank">Shadid</a>
+            <a rel="noreferrer" href="https://www.linkedin.com/in/shadid-haque/" target="_blank">Shadid</a>
           </span>
         </h1>
         <p className={styles.description}>
